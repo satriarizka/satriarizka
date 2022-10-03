@@ -33,6 +33,11 @@
 ![](https://img.shields.io/badge/Tools-Metasploit-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=satriarizka&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriarizka&layout=compact" height=180 />
+</p>
+
 ## 💬 Social Links
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/1212k4_)
