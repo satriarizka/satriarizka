@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/Tools-BurpSuite-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=satriarizka&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=satriarizka" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriarizka" height=180 />
 </p>
 
