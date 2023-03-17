@@ -64,3 +64,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br>
+[![An image of @satriarizka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satriarizka)](https://holopin.io/@satriarizka)
