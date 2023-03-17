@@ -7,7 +7,7 @@
 
 - 🤝🏽 Looking for Penetration Testing or Web Development Projects
 
-- 🎲 Interests : CTF / HTB, Web Designing (Creative Portfolio)
+- 🎲 Interests : CTF & Web Designing (Creative Portfolio)
   
 - 🎮 Valorant : Ksatria12 #1337
 
