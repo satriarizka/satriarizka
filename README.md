@@ -11,7 +11,7 @@
   
 - 🎮 Valorant : i miss her h4x0r #1337
 
-- 📧 Contact Me : <a href="khanroy147@gmail.com">khanroy147@gmail.com</a>
+- 📧 Contact Me : <a href="xksatriax@falcon.onion">xksatriax@falcon.onion</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   
