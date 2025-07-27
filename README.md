@@ -3,7 +3,7 @@
 
 <samp>
   
-- 👨🏽‍💻 I’m a Cyber Security Enthusiast / Pentester / Bug Hunter / Developer
+- 👨🏽‍💻 I’m a IT Security Enthusiast / Pentester / Bug Hunter / Developer
 
 - 🤝🏽 Looking for Penetration Testing or Web Development Projects
 
