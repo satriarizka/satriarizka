@@ -48,7 +48,7 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000?style=flat&logo=Whatsapp&logoColor=25D366)](https://wa.me/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/rehan_666)
 [![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://hackthebox.eu/)
-[![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/satria.rizka)
+[![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/venat0r.s1l3ns)
 <!--[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=ffffff)](https://github.com/thehackingsage)-->
 </samp>
 
