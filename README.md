@@ -43,7 +43,7 @@
 ## 💬 Social Links
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/cazadorrsolitario)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/xksatriax)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=00acee)](https://x.com/RehanAb777)
 [![YouTube](https://img.shields.io/badge/-YouTube-000000?style=flat&logo=YouTube&logoColor=FC2503)](https://youtube.com/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000?style=flat&logo=Whatsapp&logoColor=25D366)](https://wa.me/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/rehan_666)
