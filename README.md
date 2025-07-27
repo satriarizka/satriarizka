@@ -3,7 +3,7 @@
 
 <samp>
   
-- 👨🏽‍💻 I’m a Cyber Security Enthusiast / Pentester / Bug Hunter
+- 👨🏽‍💻 I’m a Cyber Security Enthusiast / Pentester / Bug Hunter / Developer
 
 - 🤝🏽 Looking for Penetration Testing or Web Development Projects
 
@@ -11,7 +11,7 @@
   
 - 🎮 Valorant : i miss her h4x0r #1337
 
-- 📧 Contact Me : <a href="xksatriax@falcon.onion">xksatriax@falcon.onion</a>
+- 📧 Contact Me : <a href="masrizka@masrizka.my.id">masrizka@masrizka.my.id</a> or <a href="mrxksatriax@gmail.com">mrxksatriax@gmail.com</a>
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   
@@ -42,11 +42,11 @@
 
 ## 💬 Social Links
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/1212k4_)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/cazadorrsolitario)
 [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/xksatriax)
 [![YouTube](https://img.shields.io/badge/-YouTube-000000?style=flat&logo=YouTube&logoColor=FC2503)](https://youtube.com/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000?style=flat&logo=Whatsapp&logoColor=25D366)](https://wa.me/)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/rizkasatria)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat&logo=Telegram&logoColor=0088cc)](https://t.me/rehan_666)
 [![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://hackthebox.eu/)
 [![THM](https://img.shields.io/badge/-TryHackMe-000000?style=flat&logo=icloud&logoColor=gray)](https://tryhackme.com/p/satria.rizka)
 <!--[![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=ffffff)](https://github.com/thehackingsage)-->
