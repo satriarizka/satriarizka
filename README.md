@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=satriarizka&show_icons=true&theme=codeSTACKr" height=180 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriarizka&layout=compact&theme=codeSTACKr" height=180 />
+    <img src="https://github-stats-extended.vercel.app/api?username=satriarizka&show_icons=true&theme=codeSTACKr" height=180 />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satriarizka&layout=compact&theme=codeSTACKr" height=180 />
 </p>
 
 ---
